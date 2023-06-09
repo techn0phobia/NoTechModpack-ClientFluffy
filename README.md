@@ -3,3 +3,5 @@ This Minecraft modpack is the "fluffy" client side modpack, it includes all of o
 
 
 It is also suggested that you download the "Medieval Music" mod. It is a client side mod that adds ambient music, but it is too large to upload to github.
+
+If you havent already, join the discord here: https://discord.gg/SXbYTYF9tK
